@@ -1,0 +1,22 @@
+{
+  "name": "adventofcode2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "day1": "node day1/index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiruba/aoc-2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiruba/aoc-2021/issues"
+  },
+  "homepage": "https://github.com/shiruba/aoc-2021#readme",
+  "dependencies": {
+    "prettier": "^2.5.1"
+  }
+}
